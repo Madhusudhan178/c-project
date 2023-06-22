@@ -1,3 +1,5 @@
+//this  is a single player game without any design
+//THE game name is SNAKE WATER GUN
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
